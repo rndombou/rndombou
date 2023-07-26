@@ -10,7 +10,7 @@
     
 - <b>Virtual Private Network</b>
 
-  - [Setting Up A VPN](https://github.com/rndombou/azure-network-protocols)
+  - [Setting Up A VPN](https://github.com/rndombou/setting-Up-A-VPN)
 
 <h2>🤳Connect with me:</h2>
 
